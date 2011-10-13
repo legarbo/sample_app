@@ -31,6 +31,7 @@ GEM
       activesupport (= 3.1.0)
     activesupport (3.1.0)
       multi_json (~> 1.0)
+    annotate (2.4.0)
     arel (2.2.1)
     autotest (4.4.6)
       ZenTest (>= 4.4.1)
@@ -141,6 +142,7 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
+  annotate (= 2.4.0)
   autotest (= 4.4.6)
   autotest-growl (= 0.2.11)
   autotest-rails-pure (= 4.1.2)
